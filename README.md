@@ -115,12 +115,6 @@ Debruitage-Images-Deep-Learning/
 
 ---
 
-## 📄 Documents
-
-- 📘 [Rapport complet](./rapport_deep.pdf)
-- 📊 [Présentation](./presentation_projet_Debruitage-dImages.pdf)
-
----
 
 ## 👤 Auteur
 
